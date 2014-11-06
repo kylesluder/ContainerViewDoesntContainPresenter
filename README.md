@@ -1,4 +1,4 @@
-ContainerViewDoesntContainPresenter
+UIPresentationController.containerView does not contain presenting view controller's view
 ===
 
 UIPresentationController.containerView is documented to be an ancestor of both the presenting and presented view controllers:
